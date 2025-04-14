@@ -8,12 +8,12 @@ import { useState } from 'react';
 import { Home } from './pages/Home';
 
 const firebaseConfig = {
-  apiKey: 'SUA_API_KEY',
-  authDomain: 'SEU_DOMINIO.firebaseapp.com',
-  projectId: 'SEU_PROJECT_ID',
-  storageBucket: 'SEU_BUCKET.appspot.com',
-  messagingSenderId: 'SEU_SENDER_ID',
-  appId: 'SEU_APP_ID'
+  apiKey: "AIzaSyvC0Gk4Jj0Tp0C812Ga3Yp9gCK2WMI0M8Y",
+  authDomain: "portfolio-69b38.firebaseapp.com",
+  projectId: "portfolio-69b38",
+  storageBucket: "portfolio-69b38.appspot.com",
+  messagingSenderId: "776037467082",
+  appId: "1:776037467082:web:689d72782b2807a7848533"
 };
 
 initializeApp(firebaseConfig);
